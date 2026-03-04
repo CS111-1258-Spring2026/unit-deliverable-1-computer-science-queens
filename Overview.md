@@ -2,7 +2,7 @@
 ## Goal: ##
 _Create a Java program using Unit 1 topics to demonstrate knowledge and mastery._
 ## Requirements: ##
-- Tie it to a real-world topic:
+- Tie it to a real-world topic: Recycling/waste 
   - Should be linked to an article, podcast, video, etc.
 OR 
   - A personal idea for something that is useful/fun for you, your community, etc.
